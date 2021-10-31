@@ -1,0 +1,79 @@
+DESKTOP-0IG2QV0
+rabia
+/home/rabia/Desktop
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0   8944   328 ?        Ssl  23:00   0:00 /init
+rabia       71  0.0  0.0  15080   796 ?        S    23:00   0:00 /usr/bin/dbus-launch --sh-syntax --exit-with-session xfce4-session
+rabia       72  0.0  0.0  15624  1700 ?        Ss   23:00   0:00 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --session
+rabia       94  0.0  0.0 387120  4068 ?        Sl   23:00   0:00 /usr/libexec/at-spi-bus-launcher
+rabia      100  0.0  0.0  15420  2468 ?        S    23:00   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+rabia      105  0.0  0.0 311956  3520 ?        Sl   23:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+rabia      112  0.0  0.0 242720  4456 ?        Sl   23:00   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+rabia      124  0.0  0.0  14080   348 ?        Ss   23:00   0:00 /usr/bin/ssh-agent -s
+rabia      127  0.0  0.0  90984   980 ?        Ss   23:00   0:00 /usr/bin/gpg-agent --sh --daemon --write-env-file /home/rabia/.cache/gpg-agent-info
+rabia      136  0.0  0.0 320640  4372 ?        Sl   23:00   0:00 /usr/libexec/gvfsd
+rabia      164  0.0  0.0 319876  4088 ?        Sl   23:00   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+rabia      170  0.0  0.0 316580  3564 ?        Sl   23:00   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+rabia      176  0.0  0.0 318856  3828 ?        Sl   23:00   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+rabia      185  0.0  0.0 316800  3492 ?        Sl   23:00   0:00 /usr/libexec/gvfs-goa-volume-monitor
+rabia      191  0.0  0.0 397648  4676 ?        Sl   23:00   0:00 /usr/libexec/gvfs-afc-volume-monitor
+rabia      198  0.0  0.0 243068  3392 ?        Sl   23:00   0:00 /usr/libexec/gvfsd-metadata
+rabia      202  0.0  0.0 394620  5192 ?        Sl   23:00   0:00 /usr/libexec/gvfsd-trash --spawner :1.10 /org/gtk/gvfs/exec_spaw/0
+rabia      252  0.0  0.3 506480 22376 ?        Sl   23:00   0:00 nm-applet
+rabia      262  0.0  0.3 496236 19816 ?        Sl   23:00   0:00 update-notifier
+rabia      280  0.0  0.0 241940  3896 ?        Sl   23:00   0:00 xiccd
+rabia      286  0.0  0.2 344032 14128 ?        Sl   23:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+root       377  0.0  0.0   8944   224 tty2     Ss   23:46   0:00 /init
+rabia      378  0.0  0.0  18084  3596 tty2     S    23:46   0:00 -bash
+rabia      391  0.1  0.2 344648 14596 tty2     Sl   23:46   0:00 xfce4-session
+rabia      394  0.0  0.0  15080   820 tty2     S    23:46   0:00 /usr/bin/dbus-launch --sh-syntax --exit-with-session xfce4-session
+rabia      395  0.0  0.0  15516  1704 ?        Ss   23:46   0:00 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --session
+rabia      400  0.0  0.0 311956  3528 ?        Sl   23:46   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+rabia      414  0.0  0.0  14080   352 ?        Ss   23:46   0:00 /usr/bin/ssh-agent -s
+rabia      419  0.0  0.2 305640 13496 ?        Ssl  23:46   0:00 xfsettingsd --display :0.0 --sm-client-id 2908a9684-02da-49cf-bbee-28204cb89050
+rabia      427  0.0  0.0 320640  4376 ?        Sl   23:46   0:00 /usr/libexec/gvfsd
+rabia      441  0.2  0.3 351176 21472 tty2     Sl   23:46   0:00 xfce4-panel --display :0.0 --sm-client-id 2387b7ddc-8bc7-4dcd-b54d-35dee5a17f0d
+rabia      446  0.3  0.5 473608 35852 tty2     Sl   23:46   0:01 Thunar --sm-client-id 24e143618-4ebe-4480-8357-8b417a1e36d7 --daemon
+rabia      451  0.4  0.6 478952 40136 tty2     Sl   23:46   0:01 xfdesktop --display :0.0 --sm-client-id 2129b2907-ed81-4c74-b1bd-a8a4eb26aaa5
+rabia      453  0.0  0.0 319876  4100 ?        Sl   23:46   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+rabia      459  0.0  0.0 316580  3564 ?        Sl   23:46   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+rabia      465  0.0  0.0 318856  3836 ?        Sl   23:47   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+rabia      474  0.0  0.0 316800  3500 ?        Sl   23:47   0:00 /usr/libexec/gvfs-goa-volume-monitor
+rabia      480  0.0  0.0 397648  4704 ?        Sl   23:47   0:00 /usr/libexec/gvfs-afc-volume-monitor
+rabia      487  0.0  0.0 243172  3512 ?        Sl   23:47   0:00 /usr/libexec/gvfsd-metadata
+rabia      491  0.0  0.0 394620  5208 ?        Sl   23:47   0:00 /usr/libexec/gvfsd-trash --spawner :1.7 /org/gtk/gvfs/exec_spaw/0
+rabia      499  0.0  0.2 1001852 14792 ?       SNl  23:47   0:00 /usr/lib/x86_64-linux-gnu/tumbler-1/tumblerd
+rabia      512  0.0  0.2 270188 14456 tty2     Sl   23:47   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 6 6291464 systray Notification Area Area where notification icons appear
+rabia      513  0.0  0.2 417884 14464 tty2     Sl   23:47   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libstatusnotifier.so 7 6291465 statusnotifier Status Notifier Plugin Provides a panel area for status notifier items (application indicators)
+rabia      514  0.1  0.4 385944 24560 tty2     Sl   23:47   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 8 6291466 pulseaudio PulseAudio Plugin Adjust the audio volume of the PulseAudio sound system
+rabia      515  0.1  0.3 316868 23492 tty2     Sl   23:47   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 9 6291467 power-manager-plugin Power Manager Plugin Display the battery levels of your devices and control the brightness of your display
+rabia      516  0.1  0.3 316624 23460 tty2     Sl   23:47   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 10 6291468 notification-plugin Notification Plugin Notification plugin for the Xfce panel
+rabia      519  0.0  0.2 273084 17424 tty2     Sl   23:47   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libactions.so 14 6291469 actions Action Buttons Log out, lock or other system actions
+rabia      538  0.0  0.1 267000  7172 ?        Ssl  23:47   0:00 xfce4-power-manager --restart --sm-client-id 25e43b107-bd6f-4679-9152-2fdc8b91ddeb
+rabia      542  0.0  0.2 501628 17216 tty2     Sl   23:47   0:00 nm-applet
+rabia      565  0.0  0.0 241940  3928 tty2     Sl   23:47   0:00 xiccd
+rabia      577  0.0  0.1 340880 10380 ?        Sl   23:47   0:00 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+rabia      618 13.2  5.1 3101796 305864 tty2   Sl   23:47   0:46 /usr/lib/firefox/firefox
+rabia      673  0.0  0.0 387040  3704 ?        Sl   23:47   0:00 /usr/libexec/at-spi-bus-launcher
+rabia      706  0.4  1.3 2443320 80268 tty2    Sl   23:47   0:01 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 233125 -jsInit 286204 -parentBuildID 20210927210923 -appdir /usr/lib/firefox/browser 618 true tab
+rabia      715  0.3  0.9 2423544 57000 tty2    Sl   23:47   0:01 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 85 -prefMapSize 233125 -jsInit 286204 -parentBuildID 20210927210923 -appdir /usr/lib/firefox/browser 618 true tab
+rabia      797  1.3  1.3 2500296 77828 tty2    Sl   23:47   0:04 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 1494 -prefMapSize 233125 -jsInit 286204 -parentBuildID 20210927210923 -appdir /usr/lib/firefox/browser 618 true tab
+rabia      816  8.0  2.4 9091264 145848 tty2   Sl   23:47   0:27 /usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 7458 -prefMapSize 233125 -jsInit 286204 -parentBuildID 20210927210923 -appdir /usr/lib/firefox/browser 618 true tab
+rabia      896  0.1  0.6 2375044 37748 tty2    Sl   23:48   0:00 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 12709 -prefMapSize 233125 -jsInit 286204 -parentBuildID 20210927210923 -appdir /usr/lib/firefox/browser 618 true tab
+rabia      941  0.1  0.3 201752 22036 tty2     Sl   23:49   0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20210927210923 -prefsLen 13268 -prefMapSize 233125 -appdir /usr/lib/firefox/browser 618 true rdd
+rabia     1037  0.3  0.4 462344 24168 tty2     Sl   23:51   0:00 xfce4-terminal
+rabia     1043  0.0  0.0  18048  3500 pts/0    Ss   23:51   0:00 bash
+rabia     1058  0.0  0.0  16796  1912 pts/0    S    23:53   0:00 /bin/bash ./run.sh
+rabia     1061  0.0  0.0  18904  2052 pts/0    R    23:53   0:00 ps -aux
+State   Recv-Q   Send-Q     Local Address:Port     Peer Address:Port  Process   
+DESKTOP-0IG2QV0
+MemTotal:        5985536 kB
+Filesystem         Avail
+rootfs         430728176
+none           430728176
+none           430728176
+none           430728176
+none           430728176
+none           430728176
+tmpfs          430728176
+C:\            430728176
